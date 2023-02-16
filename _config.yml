@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Akash Pandey"
-  avatar           : "mstile-310x310.png"
+  avatar           : "mstile-310x310.png" ## FIXME 
   bio              : "PhD Candidate, Northwestern University"
   location         : "Chicago, Illinois"
   employer         :
