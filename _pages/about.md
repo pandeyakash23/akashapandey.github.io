@@ -16,4 +16,4 @@ While woring on DL models for proteins, I have developed a special interest in s
 Prior to joining Northwestern, I worked as a Lead and Advanced Engineer at [Infosys](https://www.infosys.com/) and [Rolls-Royce](https://www.rolls-royce.com/products-and-services/civil-aerospace.aspx) respectively. In both companies, I was responsible for the stress analysis and fatigue life assessment of Titanium and Nickel alloy-based rotating discs in Rolls-Royce Trent-XWB engines. During my stint at Infosys and Rolls-Royce, I took components' ownership and a technical reviewer's role. I have a Masters by Research in Applied Mechanics from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/) during which I worked on characterizing the fatigue properties of smart piezoelectric composite material using experimental as well as Finite Element Analysis techniques. 
 
 You can reach me at akashpandey2026@u.northwestern.edu <br>
-[Link to my CV](http://github.com/pandeyakash23/akashapandey.github.io/files/Akash_CV.pdf)
+[Link to my CV](https://pandeyakash23.github.io/akashapandey.github.io/files/Akash_CV.pdf)
