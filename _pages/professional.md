@@ -16,4 +16,4 @@ In both these roles, I was responsible for the stress analysis and life assessme
 ## Engineering Graduate in Rolls-Royce
 ### July 2017 - Dec 2018
 * As an engineering graduate, I worked in four different teams to get a breadth of the aero-engine design, analysis, manufacturing, and testing
-* Based on my performance, at the end of my graduate program, I was offered to be part of an accelerated leadership program that promoted faster career growth to high-performing candidates
+* Based on my performance, at the end of my graduate program, I was offered to be part of an accelerated leadership program that promoted faster career growth for high-performing candidates
