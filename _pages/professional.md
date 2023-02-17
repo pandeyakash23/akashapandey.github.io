@@ -9,8 +9,9 @@ author_profile: true
 ### Jan 2019 - Aug 2021
 In both these roles, I was responsible for the stress analysis and life assessment of Titanium and Nickel alloy-based rotating discs in Rolls-Royce Trent XWB engines. During this stint,
 * I took complete technical ownership of the High-Pressure Compressor disc
-*  Actively worked to increase the fatigue and damage tolerance life expectancy of components to save the company millions of dollars
+* Actively worked to increase the fatigue and damage tolerance life expectancy of components to save the company millions of dollars. This work involved working on high-fidelity Finite Element models as well as developing algorithms to continuously track fatigue life usage of components in service. 
 * I also took the role of a technical reviewer for other Engine programs as well as components
+
 
 ## Engineering Graduate in Rolls-Royce
 ### July 2017 - Dec 2018
