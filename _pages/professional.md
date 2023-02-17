@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Professional"
+permalink: /professional/
 author_profile: true
 ---
 
-## Prediction of Mechanical Properties of Spider Silk
+## Lead Engineer/Advanced Engineer in Infosys and Rolls-Royce
 ### Jan 2022 - Present
 Spider silk's mechanical properties are dependent on various repetitive regions of amino acids within the major and minor ampullate spidroin. As the part of this research,
 * We are developing an interpretable ML model to predict spider silk mechanical properties based on B-factor values of the atoms within the protein
