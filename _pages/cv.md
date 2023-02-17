@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can view my CV here - [CV](https://github.com/pandeyakash23/akashapandey.github.io/blob/master/files/Akash_CV.pdf)
+You can view my CV here - [CV](https://github.com/pandeyakash23/akashapandey.github.io/files/Akash_CV.pdf)
