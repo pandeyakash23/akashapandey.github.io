@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional"
+title: "Professional Experience"
 permalink: /professional/
 author_profile: true
 ---
