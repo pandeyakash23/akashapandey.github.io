@@ -15,7 +15,7 @@ Spider silk's mechanical properties are dependent on various repetitive regions 
 ### Aug 2022 - Dec 2022
 B-factor of the atom in protein is the measure of its displacement about its mean position. It has been found that B-factor correlates well with many properties of protein such as flexibility, stability, and mechanical properties. Therefore, it is important to have a good predictive model for the B-factor. Hence, as part of this work, we did the following:
 * Developed an LSTM-based deep learning model to predict the B-factor of residues in proteins just based on the primary sequence. We were able to achieve a better fit than the state-of-the-art. Additionally, as the prediction is just based on the primary sequence, the developed model can be used for the B-factor prediction in *de novo* proteins.
-* Used the trained model to study the impact of Euclidean distance between the atoms on their B-factor. We concluded that atoms within 15$\AA$ of distance impact each other profoundly. 
+* Used the trained model to study the impact of Euclidean distance between the atoms on their B-factor. We concluded that atoms within 15 angstrom of distance impact each other profoundly. 
   
 
 ## Characterizing the fatigue behavior of Smart Piezoelectric Composite
