@@ -30,4 +30,3 @@ Smart Materials, Adaptive Structures and Intelligent Systems 50480, V001T02A002,
 Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems, 2016
 
 ## Manuscripts under preparation
-* B-factor prediction in proteins using sequence-based deep learning model

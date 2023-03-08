@@ -19,5 +19,6 @@ You can reach me at akashpandey2026@u.northwestern.edu <br>
 [Link to my CV](https://pandeyakash23.github.io/akashapandey.github.io/files/Akash_CV.pdf)
 
 ## Recent Highlights
+* [**March, 2023**] - Submitted paper titled *B-factor prediction in proteins using sequence-based deep learning model* to Cell Patterns
 * [**February, 2023**] - Secured third place in *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals* in ICASSP'23. Invited to submit a paper on the methodology in the same conference.
 * [**December, 2022**] - Passed Ph.D. qualification exam to become a Ph.D. candidate
