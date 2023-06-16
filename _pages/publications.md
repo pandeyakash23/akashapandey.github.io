@@ -20,7 +20,7 @@ Sensors and Actuators A: Physical 248, 114-129, 2016
 
 Conference, Workshops
 ------
-1. Payal Mohapatra*, **Akash Pandey***, Sinan Keten, Wei Chen, Qi Zhu, "[**PERSON IDENTIFICATION WITH WEARABLE SENSING USING MISSING
+1. Payal Mohapatra *, **Akash Pandey** s*, Sinan Keten, Wei Chen, Qi Zhu, "[**PERSON IDENTIFICATION WITH WEARABLE SENSING USING MISSING
 FEATURE ENCODING AND MULTI-STAGE MODALITY FUSION.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097005)", ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
 2. Payal Mohapatra, **Akash Pandey**, Bashima Islam, and Qi Zhu. "[**Speech Disfluency Detection with Contextual Representation and Data Distillation.**](https://dl.acm.org/doi/abs/10.1145/3539490.3539601)" In Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications, 2022.
