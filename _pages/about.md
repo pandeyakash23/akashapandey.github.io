@@ -15,10 +15,11 @@ While working on DL models for proteins, I have developed a special interest in 
 
 Prior to joining Northwestern, I worked as a Lead and Advanced Engineer at [Infosys](https://www.infosys.com/) and [Rolls-Royce](https://www.rolls-royce.com/products-and-services/civil-aerospace.aspx) respectively. In both companies, I was responsible for the stress analysis and fatigue life assessment of Titanium and Nickel alloy-based rotating discs in Rolls-Royce Trent-XWB engines. I have a Masters by Research in Applied Mechanics from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/) during which I worked on characterizing the fatigue properties of smart piezoelectric composite material using experimental as well as Finite Element Analysis techniques. 
 
-You can reach me at akashpandey2026@u.northwestern.edu <br>
+You can reach me at akash.pandey@northwestern.edu <br>
 [Link to my CV](https://pandeyakash23.github.io/akashapandey.github.io/files/Akash_CV.pdf)
 
 ## Recent Highlights
+* [**June, 2023**] - Presented paper titled *Person identification with wearable sensing using missing feature encoding and mutli-stage modality fusion* in Signal processing grand challenges track at ICASSP'23. 
 * [**March, 2023**] - Submitted paper titled *B-factor prediction in proteins using sequence-based deep learning model* to Cell Patterns
 * [**February, 2023**] - Secured third place in *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals* in ICASSP'23. Inivited to talk about the methodology in the same conference.
 * [**December, 2022**] - Passed Ph.D. qualification exam to become a Ph.D. candidate

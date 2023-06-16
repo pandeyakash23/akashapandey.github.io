@@ -20,13 +20,15 @@ Sensors and Actuators A: Physical 248, 114-129, 2016
 
 Conference, Workshops
 ------
+1. Payal Mohapatra*, **Akash Pandey***, Sinan Keten, Wei Chen, Qi Zhu, "[**PERSON IDENTIFICATION WITH WEARABLE SENSING USING MISSING
+FEATURE ENCODING AND MULTI-STAGE MODALITY FUSION.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097005)", ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
-1. Mohapatra, Payal, **Akash Pandey**, Bashima Islam, and Qi Zhu. "[**Speech Disfluency Detection with Contextual Representation and Data Distillation.**](https://dl.acm.org/doi/abs/10.1145/3539490.3539601)" In Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications, 2022.
+2. Payal Mohapatra, **Akash Pandey**, Bashima Islam, and Qi Zhu. "[**Speech Disfluency Detection with Contextual Representation and Data Distillation.**](https://dl.acm.org/doi/abs/10.1145/3539490.3539601)" In Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications, 2022.
 
-2. **A Pandey**, A Arokiarajan, "[**Methods for Measuring the Life of the MFC as Sensor and Actuator at High Temperature**](https://asmedigitalcollection.asme.org/SMASIS/proceedings-abstract/SMASIS2016/V001T02A002/285473)", 
+3. **A Pandey**, A Arokiarajan, "[**Methods for Measuring the Life of the MFC as Sensor and Actuator at High Temperature**](https://asmedigitalcollection.asme.org/SMASIS/proceedings-abstract/SMASIS2016/V001T02A002/285473)", 
 Smart Materials, Adaptive Structures and Intelligent Systems 50480, V001T02A002, 2016
 
-3. **A Pandey**, A Arokiarajan, "[**Experimental studies on fatigue behavior of macro fiber composite (MFC) under mechanical loading**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9803/98032V/Experimental-studies-on-fatigue-behavior-of-macro-fiber-composite-MFC/10.1117/12.2218742.full)", 
+4. **A Pandey**, A Arokiarajan, "[**Experimental studies on fatigue behavior of macro fiber composite (MFC) under mechanical loading**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9803/98032V/Experimental-studies-on-fatigue-behavior-of-macro-fiber-composite-MFC/10.1117/12.2218742.full)", 
 Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems, 2016
 
-## Manuscripts under preparation
+* signifies that the authors have contributed equally.
