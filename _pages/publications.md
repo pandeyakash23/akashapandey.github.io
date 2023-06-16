@@ -31,4 +31,4 @@ Smart Materials, Adaptive Structures and Intelligent Systems 50480, V001T02A002,
 4. **A Pandey**, A Arokiarajan, "[**Experimental studies on fatigue behavior of macro fiber composite (MFC) under mechanical loading**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9803/98032V/Experimental-studies-on-fatigue-behavior-of-macro-fiber-composite-MFC/10.1117/12.2218742.full)", 
 Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems, 2016
 
-* signifies that the authors have contributed equally.
+*signifies that the authors have contributed equally.
