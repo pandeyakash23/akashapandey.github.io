@@ -19,7 +19,7 @@ You can reach me at akash.pandey@northwestern.edu <br>
 [Link to my CV](https://pandeyakash23.github.io/akashapandey.github.io/files/Akash_CV.pdf)
 
 ## Recent Highlights 
-* [**June, 2023**] - Currently participating in ACM Multimedia challenge called as Compitation Paralinguistic ChallengE ([ComParE](http://www.compare.openaudio.eu/)).
+* [**June, 2023**] - Currently participating in ACM Multimedia challenge called as Compitation Paralinguistic ChallengE (ComParE).
 * [**June, 2023**] - Paper titled *B-factor prediction in proteins using a sequence-based deep learning model* accepted in Cell Patterns.
 * [**June, 2023**] - Presented paper titled *Person identification with wearable sensing using missing feature encoding and multi-stage modality fusion* in Signal processing grand challenges track at ICASSP'23.
 * [**February, 2023**] - Secured third place in *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals* in ICASSP'23. Inivited to talk about the methodology in the same conference.
