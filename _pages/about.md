@@ -25,5 +25,5 @@ You can reach me at akash.pandey@northwestern.edu <br>
 * [**February, 2023**] - Secured third place in *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals* in ICASSP'23. Inivited to talk about the methodology in the same conference.
 
 ## Services
-* Currently guiding one Master student in EECS department of Northwestern University for ACM MM 2023 challegne for human emotion prediction task.
+* Currently guiding one Master student in EECS department of Northwestern University for ACM MM 2023 challenge for human emotion prediction task.
 * Reviewer at Nature Computational Materials
