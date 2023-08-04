@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. **A. Pandey**, Elaine Liu, Jacob Graham, Wei Chen, Sinan Keten, **B-factor prediction in proteins using a sequence-based deep learning model**, Cell Patterns, 2023 (*in press*)
+1. **A. Pandey**, Elaine Liu, Jacob Graham, Wei Chen, Sinan Keten, [**B-factor prediction in proteins using a sequence-based deep learning model**](https://doi.org/10.1016/j.patter.2023.100805), Cell Patterns, 2023.
 2. **A Pandey**, A Arokiarajan, "[**An experimental and theoretical fatigue study on macro fiber composite (MFC) under thermo-mechanical loadings**](https://www.sciencedirect.com/science/article/pii/S0997753817301286)", European Journal of Mechanics-A/Solids 66, 26-44, 2017
 
 3. **A Pandey**, A Arokiarajan, "[**Performance studies on Macro fiber composite (MFC) under thermal condition using Kirchhoff and Mindlin plate theories**](https://www.sciencedirect.com/science/article/pii/S0020740316308669)", International Journal of Mechanical Sciences 130, 416-425, 2017
