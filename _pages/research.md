@@ -32,13 +32,13 @@ Macro-Fiber Composite (MFC) is a smart piezoelectric composite with high flexibi
 # Projects
 ## Emotion share prediction on a Computational Paralinguistic ChallengE ([**ComParE**](http://www.compare.openaudio.eu/)) dataset
 ### June-July 2023
-* As a part of ACM MM'23 challenge, me and my other two teammate developed a deep learning model to predict the emotion share. We outperformed the baseline by 4% and our has been accepted to be presented in the conference.
-* As a part of this challenge, we showed the effect of different embeddings (wav2vec & HuBERT) on the prediction. 
-* We also studied the effect of Attention in the downstream model and found that it can improve the performance by 1.8%. My contribution was towards writing the downstream model as well as the attention mechanism. 
+* As a part of the ACM MM'23 challenge, me and my other two teammates developed a deep learning model to predict the emotion share. We outperformed the baseline by 4% and our has been accepted to be presented at the conference.
+* As a part of this challenge, we showed the effect of different embeddings (wav2vec & HuBERT) on the prediction.
+* We also studied the effect of Attention in the downstream model and found that it can improve performance by 1.8%. My contribution was towards writing the downstream model as well as the attention mechanism.
 
 ## Person Identification using wearable signals from the smart watch
 ### Jan-Feb 2023
-* As a part of ICASSP'23 challenge, me and my other teammate developed a deep learning model to identify person based on their wearable signals. We secured 3rd place in the challenge.
-* This was done as the first step towards identifying the signals to detect early signals of psycotic disorders.
-* Our model used the embeddings from wav2vec and we used 1D convulation layers along with a LSTM layer as the downstream model. We pushed the baseline from 64% to 91.6%. 
+* As a part of the ICASSP'23 challenge, me and my other teammate developed a deep learning model to identify person based on their wearable signals. We secured 3rd place in the challenge.
+* This was done as the first step towards identifying the signals to detect early signals of psychotic disorders.
+* Our model used the embeddings from wav2vec and we used 1D convolution layers along with an LSTM layer as the downstream model. We pushed the baseline from 64% to 91.6%. 
 
