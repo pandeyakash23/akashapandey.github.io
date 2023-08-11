@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research/Projects"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -27,3 +27,16 @@ Macro-Fiber Composite (MFC) is a smart piezoelectric composite with high flexibi
 * Developed a Finite Element (FE) code to predict the actuation performance of MFC in a uni-morph and bi-morph configuration 
 * Developed experimental setups to study the fatigue behavior of MFC under mechanical, thermal, and electrical loads
 * Developed FE-based fatigue models to predict the degradation in MFC's performance based on the input loading
+
+
+# Projects
+## Emotion share prediction on a Computational Paralinguistic ChallengE (ComParE) dataset
+* As a part of ACM MM'23 challenge, me and my other two teammate developed a deep learning model to predict the emotion share. We outperformed the baseline by 4% and our has been accepted to be presented in the conference.
+* As a part of this challenge, we showed the effect of different embeddings (wav2vec & HuBERT) on the prediction. 
+* We also studied the effect of Attention in the downstream model and found that it can improve the performance by 1.8%. 
+
+## Person Identification using wearable signals
+* As a part of ICASSP'23 challenge, me and my other teammate developed a deep learning model to identify person based on their wearable signals. We secured 3rd place in the challenge.
+* This was done as the first step towards identifying the signals to detect early signals of psycotic disorders.
+* Our model used the embeddings from wav2vec and we used 1D convulation layers along with a LSTM layer as the downstream model. We pushed the baseline from 64% to 91.6%. 
+
