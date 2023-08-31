@@ -20,7 +20,7 @@ Sensors and Actuators A: Physical 248, 114-129, 2016
 
 Conference, Workshops
 ------
-1. Yueyuan Sui <sup>*</sup>, **Akash Pandey** <sup>*</sup>, Payal Mohapatra <sup>*</sup>, and Qi Zhu. Effect of attention and self-supervised speech embeddings on non-semantic speech tasks. In ACM Multimedia (**accepted**), 2023.
+1. Payal Mohapatra <sup>*</sup>, **Akash Pandey** <sup>*</sup>, Yueyuan Sui <sup>*</sup>, and Qi Zhu. [**Effect of attention and self-supervised speech embeddings on non-semantic speech tasks**](https://arxiv.org/abs/2308.14359). In ACM Multimedia (**accepted**), 2023.
 
 2. Payal Mohapatra <sup>*</sup>, **Akash Pandey** <sup>*</sup>, Sinan Keten, Wei Chen, Qi Zhu, "[**PERSON IDENTIFICATION WITH WEARABLE SENSING USING MISSING
 FEATURE ENCODING AND MULTI-STAGE MODALITY FUSION.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097005)", ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
