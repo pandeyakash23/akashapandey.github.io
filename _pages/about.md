@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year Ph.D. candidate in Mechanical Engineering at Northwestern University. I am being co-advised by [Dr. Sinan Keten](https://www.keten-group.northwestern.edu/) and [Dr. Wei Chen](https://ideal.mech.northwestern.edu/). 
+I am a third year Ph.D. candidate in Mechanical Engineering at Northwestern University. I am being co-advised by [Dr. Sinan Keten](https://www.keten-group.northwestern.edu/) and [Dr. Wei Chen](https://ideal.mech.northwestern.edu/). 
 
 Currently, I am using Deep Learning (DL) models to study protein’s dynamic as well as mechanical properties. My current research project is to predict the mechanical properties of spider silk and use DL models to lay some design rules for making superior protein-based materials.
 
