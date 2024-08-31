@@ -4,7 +4,7 @@ title: "Journals"
 permalink: /publications/
 author_profile: true
 ---
-1. **A. Pandey**, Wei Chen, Sinan Keten,[**Sequence-based data-constraint deep learning framework to predict spider dragline mechanical properties**](https://www.researchsquare.com/article/rs-3727903/v1)
+1. **A. Pandey**, Wei Chen, Sinan Keten,[**Sequence-based data-constraint deep learning framework to predict spider dragline mechanical properties**](https://www.nature.com/articles/s43246-024-00519-y)
 2. **A. Pandey**, Elaine Liu, Jacob Graham, Wei Chen, Sinan Keten, [**B-factor prediction in proteins using a sequence-based deep learning model**](https://doi.org/10.1016/j.patter.2023.100805), Cell Patterns, 2023.
 3. **A Pandey**, A Arokiarajan, "[**An experimental and theoretical fatigue study on macro fiber composite (MFC) under thermo-mechanical loadings**](https://www.sciencedirect.com/science/article/pii/S0997753817301286)", European Journal of Mechanics-A/Solids 66, 26-44, 2017
 
