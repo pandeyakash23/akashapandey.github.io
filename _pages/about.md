@@ -19,8 +19,9 @@ You can reach me at akash.pandey@northwestern.edu <br>
 [Link to my CV](https://pandeyakash23.github.io/akashapandey.github.io/files/Akash_CV.pdf)
 
 ## Recent Highlights  
+* [**March,2025**] - Our paper titled "COLOR: A compositional linear operation-based representation of protein sequences for identification of monomer contributions to properties" is accepted at [MLGenX workshop in ICLR 2025](https://openreview.net/forum?id=4JGIrEGfYz). 
 * [**Feb,2025**] - Submited our paper on surface-EMG based silent-speech recognition using LLMs to ACL.
-* [**Jan,2025**] - My novel eXplainable AI (XAI) method, named COLOR, developed to estimate contribution of each monomer in the primary sequence is now online on [arXiv](https://arxiv.org/pdf/2501.06371).
+* [**Jan,2025**] - Our novel eXplainable AI (XAI) method, named COLOR, developed to estimate contribution of each monomer in the primary sequence is now online on [arXiv](https://arxiv.org/pdf/2501.06371).
 * [**June-August,2024**] - Completed 10 weeks Data Science PhD internship at Capital One, San Jose. 
 * [**May, 2024**] - Successfully completed my PhD thesis proposal. 
 * [**May, 2024**] - Paper titled "Sequence-based data-constrained deep learning framework to predict spider dragline mechanical properties" published in Nature Communication Materials. 
