@@ -5,7 +5,41 @@ permalink: /research/
 author_profile: true
 ---
 
-## Prediction of Mechanical Properties of Spider Silk using deep learning
+**_(2025) Interpretable Model for temporal attribution in time-series data_**  
+Developed `TimeSliver`, an _interpretable deep learning model_ that integrates raw and symbolically binned time-series data to capture temporal interactions and compute temporal attribution scores, achieving a _11% performance improvement_ over state-of-the-art explainable methods.
+
+<br>
+
+**_(2025) Interpretable Model for monomeric attribution in protein sequences_**  
+Developed an _interpretable_ deep learning model, `COLOR`, that transforms higher-dimensional _protein sequences_ into a lower-dimensional _interpretable representation_ to estimate the contribution of each monomer to a given property. `COLOR` achieves _22% higher explainability_ than the existing gradient- and attention-based methods.
+
+<br>
+
+**_(2025) EMG-to-Text conversion with LLMs_**  
+Developed an _`LlaMA 3`-based model_ to convert surface electromyography (EMG) signals, which capture muscle activations, into speech. On a closed vocabulary task, our model achieves approximately _20% lower word error rate (WER)_ compared to specialized models.
+
+<br>
+
+**_(2024) Predictive model for spider silk's mechanical property_**  
+Developed an _interpretable feature-based deep_ _learning framework_ to predict the properties of spider silk and _identify important motifs_ in a data-constrained setting. We showed that using the B-factor as a motif descriptor improves prediction performance by 15% compared to traditional descriptors such as hydrophobicity, charge, and others.
+
+<br>
+
+**_(2023) B-factor prediction in proteins_**  
+Developed a _many-to-many LSTM model_ to predict the B-factor (atomic flexibility) of alpha-carbon atoms in proteins, achieving a _30% improvement_ over the CNN-based state-of-the-art model. Analysis revealed that atoms within 15 Å contribute most significantly to B-factor values.
+
+<br>
+
+**_(2023) Audio-based emotion prediction_**  
+As part of an _ACM Multimedia Challenge_, we developed an emotion prediction model based on an _audio foundation model_. We found that using `HuBERT-Large` as the audio foundation significantly _improved performance by 4%_.
+
+<br>
+
+**_(2023) Person identification based on the biosignals_**  
+As part of the ICASSP'23 Challenge, we developed a _wav2vec-based deep learning model_ to identify individuals based on their biosignals, _securing 3rd place_. We employed a _late fusion strategy_ to effectively handle both time-varying and static features.
+
+
+<!-- ## Prediction of Mechanical Properties of Spider Silk using deep learning
 ### Jan 2022 - Present
 Spider silk's mechanical properties are dependent on various repetitive regions of amino acids within the major and minor ampullate spidroin. As the part of this research,
 * Developed an interpretable ML model to predict the mechanical properties of the spider silk just based on the primary sequence of spidroins. 
@@ -41,4 +75,4 @@ Macro-Fiber Composite (MFC) is a smart piezoelectric composite with high flexibi
 * As a part of the ICASSP'23 challenge, me and my other teammate developed a deep learning model to identify person based on their wearable signals. We secured 3rd place in the challenge.
 * This was done as the first step towards identifying the signals to detect early signals of psychotic disorders.
 * Our model used the embeddings from wav2vec and we used 1D convolution layers along with an LSTM layer as the downstream model. We pushed the baseline from 64% to 91.6%. 
-
+ -->
