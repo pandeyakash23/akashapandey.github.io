@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have a Ph.D. from **Northwestern University**, where I worked on *explainable deep learning for scientific discovery*. I was co-advised by [Dr. Sinan Keten](https://www.keten-group.northwestern.edu/) and [Dr. Wei Chen](https://ideal.mech.northwestern.edu/). Prior to this, I completed a Master's by research in Applied Mechanics at **IIT Madras**, specializing in solid mechanics, and a Bachelor of Engineering in Automobile Engineering from Madras Institute of Technology, Anna University. My industry experience includes two internships at Capital One (recommendation systems and eXplainable AI) and a full-time position at Rolls Royce.
+I have a Ph.D. from **Northwestern University**, where I worked on *explainable deep learning for scientific discovery*. I was co-advised by [Dr. Sinan Keten](https://www.keten-group.northwestern.edu/) and [Dr. Wei Chen](https://ideal.mech.northwestern.edu/). Prior to this, I completed a Master's by research in Applied Mechanics at **IIT Madras**, specializing in Applied mechanics. My industry experience includes two internships at Capital One (recommendation systems and eXplainable AI) and a full-time position at Rolls Royce.
 
 My research develops **interpretable and generative AI models** at the intersection of computational biology, time-series analysis, and recommendation systems. A central theme across my work is building explainability directly into the learning pipeline, rather than treating it as a post-hoc afterthought.
 

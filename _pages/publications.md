@@ -10,7 +10,7 @@ author_profile: true
 
 3. **Akash Pandey**, Wei Chen, Sinan Keten, [*IDEAS: Explainability-Driven Optimization under Limited Feedback for Biological Sequences*](https://openreview.net/forum?id=nyucLMyAG3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FMLGenX%2FAuthors%23your-submissions)), **ICLR MLGenX Workshop**, 2026.
 
-4. **Akash Pandey**, Wei Chen, Sinan Keten, [*TimeSliver: Temporal Attribution-Based Explainability in Time Series Classification*](https://openreview.net/forum?id=MDRp9XhGtS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **ICLR**, 2026.
+4. **Akash Pandey**, Payal Mohapatra, Wei Chen, Qi Zhu, Sinan Keten, [*TimeSliver: Temporal Attribution-Based Explainability in Time Series Classification*](https://openreview.net/forum?id=MDRp9XhGtS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **ICLR**, 2026.
 
 5. Payal Mohapatra, Yueyuan Sui, **Akash Pandey**, Stephen Xia, Qi Zhu, [*MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series*](https://openreview.net/forum?id=1K28gV5MeF), **NeurIPS Main Conference (Spotlight)**, 2025.
 
