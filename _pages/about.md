@@ -23,9 +23,9 @@ You can reach me at akash.pandey@northwestern.edu <br>
 
 ## Recent Highlights
 * [**May, 2026**] - Paper on explainability-steered VAE and diffusion frameworks for biological sequence design submitted to NeurIPS '26.
-* [**2026**] - Paper on attribution-guided evolutionary learning for biological sequence optimization accepted at ICML '26 and ICLR '26 MLGenX.
-* [**2026**] - TimeSliver and COLOR accepted at ICLR '26.
-* [**2025**] - Paper on surface-EMG based silent speech recognition using LLaMA-3 accepted at ACL '25 Main.
+* [**Jan 2026**] - Paper on attribution-guided evolutionary learning for biological sequence optimization accepted at ICML '26 and ICLR '26 MLGenX.
+* [**Nov, 2026**] - TimeSliver accepted at ICLR '26.
+* [**March, 2025**] - Paper on surface-EMG based silent speech recognition using LLaMA-3 accepted at ACL '25 Main.
 * [**March, 2025**] - COLOR accepted at [MLGenX workshop, ICLR 2025](https://openreview.net/forum?id=4JGIrEGfYz).
 * [**June-August, 2025**] - Completed Data Science PhD internship at Capital One, San Jose.
 
